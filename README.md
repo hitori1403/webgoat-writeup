@@ -1,2 +1,7 @@
-# webgoat_wu
-My short write-up for WebGoat challenges
+# WebGoat Writeup
+
+My short write-up for WebGoat v8.2.2 challenges.
+
+<p align="center">
+    <img src="goat.gif"/>
+</p>
